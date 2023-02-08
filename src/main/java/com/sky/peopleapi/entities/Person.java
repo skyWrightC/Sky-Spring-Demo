@@ -14,7 +14,7 @@ public class Person {
         this.job = job;
     }
 
-    // REQUIRED empty contrustor and getters and setters
+    // REQUIRED empty default construstor for getters and setters.
     public Person() {
 
     }
